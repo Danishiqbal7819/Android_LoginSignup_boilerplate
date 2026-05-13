@@ -30,14 +30,11 @@ This project helps developers quickly integrate Login & Signup functionality int
 
 ## 📸 Screenshots
 
-Add your screenshots here.
-
-```md
-![Login Screen](images/login.png)
-![Signup Screen](images/signup.png)
-```
-
----
+<p align="center">
+  <img src="images/loginFB.jpg" width="250"/>
+  <img src="images/SignUPFB.jpg" width="250"/>
+  <img src="images/HomeFb.jpg" width="250"/>
+</p>
 
 ## 🚀 Getting Started
 
