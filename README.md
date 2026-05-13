@@ -41,7 +41,7 @@ This project helps developers quickly integrate Login & Signup functionality int
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+https://github.com/Danishiqbal7819/Android_LoginSignup_boilerplate.git
 ```
 
 ---
